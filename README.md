@@ -5,26 +5,12 @@
 
 <p align="center">
   <a href="https://delikohartono.vercel.app/">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-delikohartono.vercel.app-152046?style=for-the-badge&logo=vercel&logoColor=white">
+    <img alt="Portfolio" src="https://img.shields.io/badge/portfolio-152046?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
   <a href="https://github.com/Okiled">
     <img alt="Follow" src="https://img.shields.io/github/followers/Okiled?label=Follow%20me&style=for-the-badge&logo=github&color=C6A45D&labelColor=152046">
   </a>
   <img alt="Visitors" src="https://komarev.com/ghpvc/?username=Okiled&label=Profile%20views&color=0e75b6&style=for-the-badge">
-</p>
-
-
-
-<h3 align="center">🏆 Achievements & Trophies</h3>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Okiled&theme=algolia&no-bg=true&no-frame=true&column=6&margin-w=10&margin-h=10" alt="trophies" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Okiled&hide_border=true&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="streak"/>
 </p>
 
 
@@ -57,8 +43,6 @@
 </p>
 
 
-
-
 <h3 align="center">📊 GitHub stats</h3>
 
 <p align="center">
@@ -87,19 +71,5 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Okiled/Okiled/output/snake.svg" alt="snake animation"/>
 </p>
-
-
-
-<details>
-  <summary>🧩 Fun badges</summary>
-
-  <p>
-    <img src="https://img.shields.io/badge/Open%20Source-Friendly-3DA639?logo=opensourceinitiative&logoColor=fff&style=for-the-badge">
-    <img src="https://img.shields.io/badge/Clean%20Code-Yes-4B8BBE?style=for-the-badge">
-    <img src="https://img.shields.io/badge/UI%2FUX-Lover-ff69b4?style=for-the-badge">
-    <img src="https://img.shields.io/badge/Timezone-WIB%20(UTC%2B7)-152046?style=for-the-badge">
-    <img src="https://img.shields.io/badge/Types-Safe-3178C6?logo=typescript&logoColor=fff&style=for-the-badge">
-  </p>
-</details>
 
 
