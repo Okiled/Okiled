@@ -1,0 +1,42 @@
+<svg viewBox="0 0 1000 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Deliko Hartono, full-stack engineer">
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+
+    .bg { fill: #ffffff; }
+    .name { fill: #1d1d1f; }
+    .period { fill: #0071e3; }
+    .sub { fill: #6e6e73; }
+    .label { fill: #86868b; }
+    .value { fill: #1d1d1f; }
+    .hair { stroke: #d2d2d7; }
+
+    @media (prefers-color-scheme: dark) {
+      .bg { fill: #000000; }
+      .name { fill: #f5f5f7; }
+      .period { fill: #2997ff; }
+      .sub { fill: #98989d; }
+      .label { fill: #98989d; }
+      .value { fill: #f5f5f7; }
+      .hair { stroke: #38383a; }
+    }
+  </style>
+
+  <rect class="bg" width="1000" height="260" />
+
+  <text x="60" y="150" font-size="58" font-weight="700" letter-spacing="-1.5">
+    <tspan class="name">Deliko Hartono</tspan><tspan class="period">.</tspan>
+  </text>
+
+  <line x1="660" y1="46" x2="660" y2="214" stroke-width="1" class="hair" />
+
+  <text x="700" y="70" font-size="11" font-weight="600" letter-spacing="1.5" class="label">ROLE</text>
+  <text x="700" y="94" font-size="17" font-weight="600" class="value">Software Engineer</text>
+  <line x1="700" y1="112" x2="940" y2="112" stroke-width="1" class="hair" />
+
+  <text x="700" y="136" font-size="11" font-weight="600" letter-spacing="1.5" class="label">FOCUS</text>
+  <text x="700" y="160" font-size="17" font-weight="600" class="value">Interfaces &amp; Systems</text>
+  <line x1="700" y1="178" x2="940" y2="178" stroke-width="1" class="hair" />
+
+  <text x="700" y="202" font-size="11" font-weight="600" letter-spacing="1.5" class="label">STACK</text>
+  <text x="700" y="224" font-size="15" font-weight="600" class="value">TypeScript · Python · React</text>
+</svg>
